@@ -1,0 +1,7 @@
+C:\Users\Korisnik\source\repos\BuricMarioKlaseMetodeKonstruktori1-1\BuricMarioKlaseMetodeKonstruktori1-1\bin\Debug\BuricMarioKlaseMetodeKonstruktori1-1.exe.config
+C:\Users\Korisnik\source\repos\BuricMarioKlaseMetodeKonstruktori1-1\BuricMarioKlaseMetodeKonstruktori1-1\bin\Debug\BuricMarioKlaseMetodeKonstruktori1-1.exe
+C:\Users\Korisnik\source\repos\BuricMarioKlaseMetodeKonstruktori1-1\BuricMarioKlaseMetodeKonstruktori1-1\bin\Debug\BuricMarioKlaseMetodeKonstruktori1-1.pdb
+C:\Users\Korisnik\source\repos\BuricMarioKlaseMetodeKonstruktori1-1\BuricMarioKlaseMetodeKonstruktori1-1\obj\Debug\BuricMarioKlaseMetodeKonstruktori1-1.csprojAssemblyReference.cache
+C:\Users\Korisnik\source\repos\BuricMarioKlaseMetodeKonstruktori1-1\BuricMarioKlaseMetodeKonstruktori1-1\obj\Debug\BuricMarioKlaseMetodeKonstruktori1-1.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\source\repos\BuricMarioKlaseMetodeKonstruktori1-1\BuricMarioKlaseMetodeKonstruktori1-1\obj\Debug\BuricMarioKlaseMetodeKonstruktori1-1.exe
+C:\Users\Korisnik\source\repos\BuricMarioKlaseMetodeKonstruktori1-1\BuricMarioKlaseMetodeKonstruktori1-1\obj\Debug\BuricMarioKlaseMetodeKonstruktori1-1.pdb
